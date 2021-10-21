@@ -1,0 +1,19 @@
+header {
+    background-color: #7f6757
+    
+    
+}
+
+.logga{
+
+width: 200px;
+display: flex;
+justify-content: flex-start;
+margin-top: 20px;
+
+
+}
+
+.weekatt{border-radius: 50%;
+    width: 25%;
+box: shadow ; black;}
