@@ -1,5 +1,5 @@
 header {
-    background-color: #7f6757
+    background-color: #f5dbf4
     
     
 }
@@ -16,7 +16,7 @@ margin-top: 20px;
 
 .weekatt{border-radius: 50%;
     width: 25%;
-box: shadow ; black;
+box: shadow, black;
 margin-top: 100px;
 }
 
@@ -25,7 +25,7 @@ margin-top: 100px;
 /* Navbar container */
 .navbar {
     overflow: hidden;
-    background-color: #333;
+    background-color:rgb(184, 203, 207);
     font-family: Arial;
   }
   
@@ -59,14 +59,14 @@ margin-top: 100px;
   
   /* Add a red background color to navbar links on hover */
   .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
+    background-color: rgb(147, 165, 168);
   }
   
   /* Dropdown content (hidden by default) */
   .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f9f9f9;
+    background-color: rgb(195, 173, 216) C;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
