@@ -1,13 +1,27 @@
 header {
+  
     background-color: #ecebc9;
-    margin-top: -20px;
-       
+    }
+
+
+body{
+  margin: 0%;
+  background-color: #b19cd9;
 }
 
-.rubrik{
-
-size: 550px;
+.Rubrik{
+display: flex;
+justify-content: center;
+border-right: 50px;
+font-style: oblique;
+font-size: 80px;
+font-weight:600;
+font-stretch: expanded;
+color: rgb(184, 203, 207);
+text-align: center;
+margin-right: 10%;
 }
+
 
 
 
@@ -15,10 +29,7 @@ size: 550px;
 
 .logga{
 
-width: 200px;
 display: flex;
-justify-content: flex-start;
-margin-top: 20px;
 
 
 }
@@ -36,15 +47,18 @@ margin-top: 20px;
 
 /* Navbar container */
 .navbar {
+    display: flex;
+    justify-content: space-around;
     overflow: hidden;
     background-color:rgb(184, 203, 207);
     font-family: Arial;
+    padding: 20px;
   }
   
   /* Links inside the navbar */
   .navbar a {
     float: left;
-    font-size: 16px;
+    font-size: 30px;
     color: white;
     text-align: center;
     padding: 14px 16px;
