@@ -121,3 +121,8 @@ display: flex;
   nav{
       margin: 0px;
   }
+
+ .Rubrik a{
+      text-decoration: none;
+      color: rgb(184, 203, 207);
+  }
