@@ -74,3 +74,33 @@
   nav{
       margin: 0px;
   }
+
+  a{
+
+     
+    text-decoration: none;
+    color: rgb(184, 203, 207);
+
+  }
+
+  
+
+
+
+body{
+    margin: 0%;
+    background-color: #b19cd9
+}
+
+h1{
+
+font-size: 72px;
+text-align: center;
+background-color: #ecebc9;
+}
+
+.rubrik{
+
+    
+background-color: #ecebc9;
+}
