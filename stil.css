@@ -34,13 +34,18 @@ display: flex;
 
 }
 
-.weekatt{
+.karta{
   display: flex;
   border-radius: 50%;
   width: 25%;
   margin-top: 50px;
   margin-left: 100px;
   ;
+}
+
+.rubrik2{
+background-color:rgb(184, 203, 207) ;
+margin-left: 100px;
 }
 
 
@@ -55,7 +60,6 @@ display: flex;
     padding: 20px;
   }
   
-  /* Links inside the navbar */
   .navbar a {
     float: left;
     font-size: 30px;
@@ -65,13 +69,11 @@ display: flex;
     text-decoration: none;
   }
   
-  /* The dropdown container */
   .dropdown {
     float: left;
     overflow: hidden;
   }
   
-  /* Dropdown button */
   .dropdown .dropbtn {
     font-size: 16px;
     border: none;
@@ -79,16 +81,15 @@ display: flex;
     color: white;
     padding: 14px 16px;
     background-color: inherit;
-    font-family: inherit; /* Important for vertical align on mobile phones */
-    margin: 0; /* Important for vertical align on mobile phones */
+    font-family: inherit; 
+    margin: 0;
   }
   
-  /* Add a red background color to navbar links on hover */
+  
   .navbar a:hover, .dropdown:hover .dropbtn {
     background-color: rgb(147, 165, 168);
   }
   
-  /* Dropdown content (hidden by default) */
   .dropdown-content {
     display: none;
     position: absolute;
@@ -98,7 +99,6 @@ display: flex;
     z-index: 1;
   }
   
-  /* Links inside the dropdown */
   .dropdown-content a {
     float: none;
     color: black;
@@ -108,12 +108,10 @@ display: flex;
     text-align: left;
   }
   
-  /* Add a grey background color to dropdown links on hover */
   .dropdown-content a:hover {
     background-color: #ddd;
   }
   
-  /* Show the dropdown menu on hover */
   .dropdown:hover .dropdown-content {
     display: block;
   }
@@ -134,7 +132,7 @@ display: flex;
   }
 
   main{
-    padding-top:  300px;
+    padding-top:  50px;
     
     padding-bottom:  300px;
     background-color: #b19cd9;
@@ -147,4 +145,14 @@ display: flex;
     font-style: arial;
     margin-left: 50%;
   }
+  
+  
+
+  .text5{
+
+  font-size: larger;
+  color: #ecebc9;
+  margin-left: 40%;
+  }
+
   

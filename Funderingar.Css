@@ -114,3 +114,14 @@ margin: 0%;
   font-style: arial;
   margin-left: 50%;
 }
+
+main{
+  padding-top:  50px;
+  
+  padding-bottom:  300px;
+  background-color: #b19cd9;
+}
+
+.formulär {
+  margin-left: 40%;
+}
