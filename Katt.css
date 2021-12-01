@@ -96,4 +96,20 @@ h1{
 
 font-size: 72px;
 text-align: center;
+background-color: #ecebc9;
+margin: 0%;
+}
+
+.fot{
+
+  background-color:#ecebc9 ;
+  padding: 20px;
+
+}
+
+.text2 {
+
+  font-size: 150%;
+  font-style: arial;
+  margin-left: 50%;
 }
